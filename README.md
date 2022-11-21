@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Ugo's github stats](https://github-readme-stats-ugo-oclock.vercel.app//api?username=Ugo-OClock&count_private=true&show_icons=true)  
 
-![Top Langs](https://github-readme-stats-ugo-oclock.vercel.app//api/top-langs/?username=Ugo-OClock&langs_count=10&isPrivate=true)
+![Top Langs](https://github-readme-stats-ugo-oclock.vercel.app//api/top-langs/?username=Ugo-OClock&langs_count=10)
