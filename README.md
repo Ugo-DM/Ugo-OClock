@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on side projects Apps
 - 🌱 I’m currently learning ReactJS & NextJS
-- 📫 How to reach me: Twitter : @ugodemarch
+- 📫 How to reach me: Twitter : @ugo_dev
 
 
 <!-- ![Ugo's github stats](https://github-readme-stats-ugo-oclock.vercel.app//api?username=Ugo-OClock&count_private=true&show_icons=true) -->
